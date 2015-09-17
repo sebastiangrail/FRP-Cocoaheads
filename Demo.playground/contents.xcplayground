@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios' requires-full-environment='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios' requires-full-environment='true' display-mode='rendered'>
+    <pages>
+        <page name='Simple Signal'/>
+        <page name='Split Observable and Controller'/>
+        <page name='Error and Completed'/>
+        <page name='Untitled Page'/>
+    </pages>
 </playground>
